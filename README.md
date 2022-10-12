@@ -2,9 +2,11 @@
 
 ## 📖 简介
 
-基于auto.js和[DingDing-Automatic-Clock-in](https://github.com/georgehuan1994/DingDing-Automatic-Clock-in)的钉钉全自动打卡脚本
-支持日历定时打卡以及QQ远程打卡
-不需要手机root
+基于auto.js和[DingDing-Automatic-Clock-in](https://github.com/georgehuan1994/DingDing-Automatic-Clock-in)的钉钉全自动打卡脚本。
+
+支持日历定时打卡以及QQ远程打卡。
+
+不需要手机root。
 
 ## 📐 工具介绍
 
