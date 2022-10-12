@@ -6,11 +6,11 @@
  * @URL: https://github.com/georgehuan1994/DingDing-Automatic-Clock-in
  */
 
-const ACCOUNT = ""
-const PASSWORD = ""
+const ACCOUNT = "" // 钉钉账号 可填可不填 (填了账号和密码支持钉钉自动登录)
+const PASSWORD = "" // 钉钉密码 可填可不填
 
-const QQ = ""
-const EMAILL_ADDRESS = ""
+const QQ = "" // 发送反馈消息的QQ
+const EMAILL_ADDRESS = "" // 发送反馈消息的邮箱
 
 const PACKAGE_ID_QQ = "com.tencent.mobileqq"                // QQ
 const PACKAGE_ID_DD = "com.alibaba.android.rimet"           // 钉钉
